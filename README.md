@@ -1,4 +1,4 @@
-<img src="https://www.bit01.de/wp-content/uploads/2020/11/alexa_coronazahlen.png" />
+<img src="https://www.bit01.de/wp-content/uploads/2020/11/alexa_coronazahlen.png" width="100" />
 
 # Corona Zahlen
 Alexa App für Corona Zahlen
