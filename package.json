@@ -1,0 +1,19 @@
+{
+  "name": "corona-alexa-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bitnulleins",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.19.0",
+    "aws-sdk": "^2.326.0",
+    "i18next": "^15.0.5",
+    "https": "1.0.0",
+    "moment": "^2.29.1"
+  }
+}
